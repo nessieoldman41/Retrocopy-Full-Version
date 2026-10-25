@@ -236,4 +236,4 @@ This repository serves as the official landing page for RetroCopy. The software 
 **Get the most recent version of RetroCopy today!**
 
 ---
-**Last updated:** 2026-10-25 11:12:20 UTC
+**Last updated:** 2026-10-25 15:55:49 UTC
